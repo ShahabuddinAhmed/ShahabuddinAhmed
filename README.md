@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahabuddinAhmed&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/ShahabuddinAhmed/ShahabuddinAhmed/edit/main/README.md)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/ShahabuddinAhmed/ShahabuddinAhmed/edit/master/README.md)
